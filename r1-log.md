@@ -1,10 +1,12 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+## 100DaysOfCode Log - Round 1 - **Anil Khatri**
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on ***Jan 03, Thursday, 2019***.
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### R1D0 
+* Started a Tribute Page Project after completing the Responsive Web Challenges. Worked on the html layout, and struggled with CSS, It is accecpted by freecodecamp judge but I want to make it more beautiful and responsive so will work on it tomorrow.
+
+* Solved 4 Problems from [Cracking the coding Interview](https://github.com/imkaka/Interview-Preparation-Kit) and two problems from [dailycodebase](https://github.com/CodeToExpress/dailycodebase)
 
 ### R1D2
