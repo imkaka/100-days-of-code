@@ -9,4 +9,6 @@ The log of my #100DaysOfCode challenge. Started on ***Jan 03, Thursday, 2019***.
 
 * Solved 4 Problems from [Cracking the coding Interview](https://github.com/imkaka/Interview-Preparation-Kit) and two problems from [dailycodebase](https://github.com/CodeToExpress/dailycodebase)
 
-### R1D2
+### R1D1
+* Completed the [Tribute Page](https://codepen.io/imkaka/project/editor/ZBrVEB) and now feels good about combining CSS well between containers, it will come with time.
+* Solved Longest Common Subword Problem & participated in Codechef long challenge.
