@@ -15,3 +15,6 @@ The log of my #100DaysOfCode challenge. Started on ***Jan 03, Thursday, 2019***.
 
 ### R1D2
 * Trying my new learned/updated knoweledge of HTML/CSS to learn Flask Framework done the Form validation and basic structure of a simple flask blog using  `wtforms`.
+
+### R1D3
+* Going with learning Flask and I learned and implemented the basic user Sign Up and Sign In using Database &amp `SQLAlchemy`, also learned about Templetes and Templete Inheritence.  
