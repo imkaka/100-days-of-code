@@ -23,7 +23,7 @@ The log of my #100DaysOfCode challenge. Started on ***Jan 03, Thursday, 2019***.
 Worked more on the flask blog app to do:
 
 * Fully featured User Authentication.
-*  used `flask-login` and `flask-bcrypt' for the same.
+*  used `flask-login` and `flask-bcrypt` for the same.
 * Also worked on to update Profile Pics and Account details.
 * Learned to pass varibles to routes.
 * Worked with `pagination` to manage Posts.
