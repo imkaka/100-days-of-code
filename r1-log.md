@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on ***Feb 01, Friday, 2019***.
 
 ## Log
 
-### R1D0 
+### R1D0
 * Completed the HTML part of Survey Form Project from @freeCodeCamp.
 * Got Three questions done in [dailycodebase](https://github.com/CodeToExpress/dailycodebase).
 
@@ -20,3 +20,6 @@ The log of my #100DaysOfCode challenge. Started on ***Feb 01, Friday, 2019***.
 * Continuing with landing Page.
 * Worked with OpenCV in Python to build basic scripts.
 * Resuming the Bitiya Project.
+
+### R1D4
+* Worked on Mycroft-kills and a little work on pandas.
