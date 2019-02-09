@@ -23,3 +23,8 @@ The log of my #100DaysOfCode challenge. Started on ***Feb 01, Friday, 2019***.
 
 ### R1D4
 * Worked on Mycroft-kills and a little work on pandas.
+
+### R1D5
+* used ```msk``` to play with Mycroft Skills.
+* Played with ```SocketIO``` and ```Flask``` to build a Chal Application.
+* Implemented some Sorting Algos and solved related Problems.
