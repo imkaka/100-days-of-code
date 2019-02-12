@@ -28,3 +28,7 @@ The log of my #100DaysOfCode challenge. Started on ***Feb 01, Friday, 2019***.
 * used ```msk``` to play with Mycroft Skills.
 * Played with ```SocketIO``` and ```Flask``` to build a Chal Application.
 * Implemented some Sorting Algos and solved related Problems.
+
+### R1D6
+* Worked on @mycroft_skill to create working weather skill.
+* Following the [DailyCodeBase](https://github.com/CodeToExpress/dailycodebase) to implement the basic DS daily.
