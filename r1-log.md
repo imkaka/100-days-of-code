@@ -34,5 +34,5 @@ The log of my #100DaysOfCode challenge. Started on ***Feb 01, Friday, 2019***.
 * Following the [DailyCodeBase](https://github.com/CodeToExpress/dailycodebase) to implement the basic DS daily.
 
 ### R1D7
-* Working on ```STT``` for ```mycroft`` based Project.
+* Working on ```STT``` for ```mycroft``` based Project.
 * Started the Java Revision as PJP for new 10% joining Job.
